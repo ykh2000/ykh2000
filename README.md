@@ -68,29 +68,18 @@
 
 ## 📚 Reading List
 
-Foundational resources I’m using to build depth in systems, networking,
-performance engineering, and large-scale infrastructure.
-
 ### Networking & Distributed Systems
-- *TCP/IP Illustrated, Volume 1* — W. Richard Stevens
-- *UNIX Network Programming* — W. Richard Stevens
 - *High Performance Browser Networking* — Ilya Grigorik
 - *Designing Data-Intensive Applications* — Martin Kleppmann
-- *The Datacenter as a Computer* — Luiz André Barroso et al.
 
 ### Linux Kernel, OS & Performance
 - *Linux Kernel Development* — Robert Love
-- *Understanding the Linux Kernel* — Daniel Bovet, Marco Cesati
-- *Linux Device Drivers* — Jonathan Corbet et al.
 - *Systems Performance* — Brendan Gregg
-- *Linux Observability with BPF* — David Calavera
-- *DPDK Programmer’s Manual* — Intel
 
 ### C++ & Systems Programming
 - *Computer Systems: A Programmer’s Perspective (CS:APP)* — Bryant & O’Hallaron
 - *Effective Modern C++* — Scott Meyers
 - *C++ Concurrency in Action* — Anthony Williams
-- *C++ High Performance* — Björn Andrist
 
 ---
 
