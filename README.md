@@ -39,7 +39,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 - Software Engineering candidate  
 - Computer Systems Technology graduate (Mohawk College)  
@@ -48,7 +48,7 @@
 
 ---
 
-## 🔨 What I’m Up To
+## What I’m Up To
 
 ### Currently Learning / Building
 
@@ -83,7 +83,7 @@
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 <p align="center">
   <a href="mailto:wrk.ysh31@gmail.com">
