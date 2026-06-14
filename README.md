@@ -10,7 +10,7 @@
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 ### Programming Languages
 <p>
@@ -66,7 +66,7 @@
 
 ---
 
-## 📚 Reading List
+## Reading List
 
 ### Networking & Distributed Systems
 - *High Performance Browser Networking* — Ilya Grigorik
