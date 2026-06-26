@@ -3,9 +3,7 @@
   <img src="https://img.shields.io/badge/YASH_Khanduja-FF0000?style=for-the-badge&logoColor=white" alt="YASH Khanduja" height="65">
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/purist00/count.svg" alt="Visitor Count">
-</p>
+<h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 -->
