@@ -1,14 +1,12 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YASH_Khanduja-FF0000?style=for-the-badge&logoColor=white" alt="YASH Khanduja" height="65">
+  <img src="https://img.shields.io/badge/YASH_KHANDUJA-FF0000?style=for-the-badge&logoColor=white" alt="Yash Kanduja" height="150">
 </p>
 
-<h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
+<h2><a href="https://github.com/purist00"> <img src="https://visitor-badge.laobi.icu/badge?page_id=purist00" alt="Visitors"></a></h2>
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 -->
-
-I'm Yash, an under-graduate in Computer Science from the National University of Singapore!
 
 <h3>Reach me out 👍</h3>
 <p>
