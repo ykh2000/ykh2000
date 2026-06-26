@@ -12,7 +12,9 @@ Interested in low-level systems, databases, distributed systems, programming lan
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)## 🖥️ System Specs (My Machine)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purist00&show_icons=true&theme=default)
+
+## 🖥️ System Specs (My Machine)
 
 | Component           | ThinkPad T14s Gen 3 (2022)        | MacBook Air M2 (2023)          | Oracle Cloud Ampere A1          |
 | :------------------ | :-------------------------------- | :----------------------------- | :------------------------------ |
