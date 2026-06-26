@@ -1,5 +1,6 @@
-![Yash Khanduja](https://img.shields.io/badge/Yash%20Khanduja-a6e3a1?style=for-the-badge&labelColor=1e1e2e&color=a6e3a1)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Yash%20Khanduja-2ea043?style=for-the-badge&logo=gnubash&logoColor=white" height="70">
+</p>
 Computer Science Undergraduate
 
 Building systems. Solving hard problems.
