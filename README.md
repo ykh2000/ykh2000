@@ -1,15 +1,17 @@
 <p align="center">
-  <table align="center" width="80%">
+<p align="center">
+  <table align="center" width="100%">
     <tr>
-      <td align="center" style="padding: 60px 100px;">
-        <font color="#000000">
-          <h1>Yash Khanduja</h1>
-        </font>
+      <td align="center" style="padding: 80px 20px;">
+        <svg viewBox="0 0 1000 180" width="100%" xmlns="http://www.w3.org/2000/svg">
+          <text x="50%" y="50%" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="140" font-weight="900" fill="#000000" dominant-baseline="central" text-anchor="middle">
+            Yash Khanduja
+          </text>
+        </svg>
       </td>
     </tr>
   </table>
 </p>
-
 <h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
 
 <p align="center">
