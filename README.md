@@ -1,11 +1,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/YASH_Khanduja-FF0000?style=for-the-badge&logoColor=white" alt="YASH Khanduja" height="65">
 </p>
-
-<p align="center">
-  <!-- Replace the src URL below with your uploaded image link from Screenshot 2026-06-27 at 1.49.58 AM.png -->
-  <img src="path_to_your_uploaded_comma_banner.png" alt="COMMA Banner" width="100%">
-</p>
+<!-- Full-width green highlight block -->
+<table width="100%">
+  <tr bgcolor="#2ea44f">
+    <td align="center" style="padding: 20px;">
+      <font color="white" size="4">
+        <strong>💚 Welcome to my profile! Driven by a deep passion for low-level performance, high-throughput architectures, and systems development.</strong>
+      </font>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/purist00/count.svg" alt="Visitor Count">
