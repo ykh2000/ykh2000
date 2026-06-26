@@ -8,7 +8,9 @@
     </text>
   </svg>
 </p>
-
+<p align="center">
+  <img src="watermarked_img_3048675416999803975.png" width="100%" alt="Yash Khanduja Banner">
+</p>
 
 
 
