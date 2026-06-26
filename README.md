@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/yash67183617" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/yash67183617?logo=twitter&style=for-the-badge" alt="https://twitter.com/yash67183617" /></a> </p>
 
-- I’m currently working on **super-kv ((In-memory Key Value Store)**
+- I’m currently working on **super-kv (In-memory Key Value Store)**
+
+- Systems Engineering **cpp| os | concurrency | db-internals**
+
+- CSES [cses.fi/user/434476](cses.fi/user/434476)
+
+- Leetcode [leetcode.com/u/ykshdja31/](leetcode.com/u/ykshdja31/)
 
 - I’m currently learning **Agentic Python | Systems Programming with cpp**
-
-- Learning [Systems Engineering -](cpp| os | concurrency | db-internals)
-
-- DS/Algo Links [CSES | Leetcode](cses.fi/user/434476 | leetcode.com/u/ykshdja31/)
-
-- How to reach me **wrk.ysh31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
