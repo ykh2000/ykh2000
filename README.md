@@ -1,45 +1,43 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/YASH_Khanduja-FF0000?style=for-the-badge&logoColor=white" alt="YASH Khanduja" height="45">
+<h2>Welcome! <a href="https://github.com/purist00"> <img src="https://visitor-badge.laobi.icu/badge?page_id=purist00" alt="Visitors"></a></h2>
+
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
+-->
+
+I'm Yash, an under-graduate in Computer Science from the National University of Singapore!
+
+<h3>Reach me out 👍</h3>
+<p>
+<a href="https://www.linkedin.com/in/yshkhndja/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=purist00&color=red&style=flat-square" alt="Visitor Count">
-</p>
----
+<h3>Recent Github Activity ⚡</h3>
 
-## 🛠️ Technical Toolkit
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#17](https://github.com/Matistjati/kattis-problem-issues/issues/17#issuecomment-4598094560) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+2. 🚀 Published release [v2.1.5](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+3. 🚀 Published release [v2.1.4](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.4) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+4. 🗣 Commented on [#361](https://github.com/los-cocos/cocos/issues/361#issuecomment-2450527209) in [los-cocos/cocos](https://github.com/los-cocos/cocos)
+5. ❗ Opened issue [#361](https://github.com/los-cocos/cocos/issues/361) in [los-cocos/cocos](https://github.com/los-cocos/cocos)
+<!--END_SECTION:activity-->
 
-### Core Focus
-*   **Languages:** C++, C
-*   **Systems Concepts:** Operating System Synchronization, Memory Management, Concurrency & Multithreading
-*   **Architecture & Networking:** Database Management Systems (RDBMS internals), Network Infrastructure, High-Frequency Trading (HFT) concepts
-
----
-
-## 🚀 Active Deep Dives & Learning Lab
-
-*   **Low-Level Synchronization:** Studying race conditions, mutexes, semaphores, and memory barriers to write safe, highly concurrent code.
-*   **Systems Architecture:** Reading through advanced systems literature and studying open-source operating system/database primitives to understand how high-throughput applications utilize hardware efficiently.
-*   **Performance Optimization:** Focusing on cache locality, low-latency code design, and the modern C++ memory model.
-
----
-
-## 🎯 Current Goals
-*   **Open Source Foundations:** Actively working through modern C++ standards and preparing to contribute to low-level open-source projects (LFX Mentorship tracks, Linux foundation ecosystems).
-*   **System Design:** Deepening knowledge in foundational distributed systems and network protocol stacks.
-
----
-
-## 🔗 Connect With Me
-*   **GitHub:** [purist00](https://github.com/purist00)
-*   **LinkedIn:** [yashkhandujaswe](https://www.linkedin.com/in/yashkhandujaswe/)
-*   **Twitter:** [@YASH67183617](https://twitter.com/YASH67183617)
-
----
-*Last updated: June 2026*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purist00&show_icons=true&theme=default)
-
-
-
-
+<details>
+  <summary>
+    <b>GitHub Stats</b>
+  </summary>
+  <a href="https://github.com/RussellDash332/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Russell's%20GitHub%20Stats" />
+  <!--
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
+  -->
+  </a>
+</details>
+<details>
+  <summary>
+    <b>Wakatime Stats</b>
+  </summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=RussellDash332&layout=compact&theme=react&title_color=dd58c1&custom_title=My%20Wakatime%20Stats"/></a>
+</details>
