@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Yash%20Khanduja-2ea043?style=for-the-badge&logo=gnubash&logoColor=white" height="70">
+  <img src="https://img.shields.io/badge/Yash%20Khanduja-2ea043?style=for-the-badge&logo=gnubash&logoColor=white" height="50">
 </p>
 Computer Science Undergraduate
 
