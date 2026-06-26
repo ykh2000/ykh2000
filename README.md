@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/YASH_Khanduja-FF0000?style=for-the-badge&logoColor=white" alt="YASH Khanduja" height="65">
-</p>
+
 <!-- Full-width green highlight block -->
 <table width="100%">
   <tr bgcolor="#2ea44f">
     <td align="center" style="padding: 20px;">
       <font color="white" size="4">
-        <strong>💚 Welcome to my profile! Driven by a deep passion for low-level performance, high-throughput architectures, and systems development.</strong>
+        <strong><p align="center">
+  <img src="https://img.shields.io/badge/YASH_Khanduja-FF0000?style=for-the-badge&logoColor=white" alt="YASH Khanduja" height="65">
+</p></strong>
       </font>
     </td>
   </tr>
