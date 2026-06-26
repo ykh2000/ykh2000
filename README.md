@@ -12,10 +12,8 @@
   </tr>
 </table>
 
-<!-- Guaranteed Full-width Green Block via SVG Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%20-
-    Yash%20Khanduja%20Welcome%20to%20my%20profile!%20Driven%20by%20a%20deep%20passion%20for%20low--level%20performance%20and%20systems%20development.-2ea44f?style=for-the-badge&labelColor=2ea44f" width="100%" alt="Green Welcome Banner">
+  <img src="https://img.shields.io/badge/%20-Yash%20Khanduja-2ea44f?style=for-the-badge&labelColor=2ea44f&logoColor=000000" width="100%" height="120" alt="Yash Khanduja">
 </p>
 
 <h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
