@@ -1,9 +1,9 @@
 <p align="center">
-  <table align="center">
+  <table align="center" width="80%">
     <tr>
-      <td align="center" style="padding: 40px 80px;">
-        <font color="#000000" size="7">
-          <strong>Yash Khanduja</strong>
+      <td align="center" style="padding: 60px 100px;">
+        <font color="#000000">
+          <h1>Yash Khanduja</h1>
         </font>
       </td>
     </tr>
