@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <h1><img src="https://img.shields.io/badge/Yash_Khanduja-05f548?style=for-the-badge" alt="Yash Khanduja"></h1>
+  <img src="https://img.shields.io/badge/Yash_Khanduja-05f548?style=for-the-badge" width="60%" alt="Yash Khanduja">
 </p>
 
 <h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
