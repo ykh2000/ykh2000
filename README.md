@@ -9,9 +9,9 @@
 
 - Systems Engineering **cpp| os | concurrency | db-internals**
 
-- CSES [cses.fi/user/434476](cses.fi/user/434476)
+- Profile Link [CSES](cses.fi/user/434476)
 
-- Leetcode [leetcode.com/u/ykshdja31/](leetcode.com/u/ykshdja31/)
+- Profile Link [Leetcode](leetcode.com/u/ykshdja31/)
 
 - I’m currently learning **Agentic Python | Systems Programming with cpp**
 
