@@ -12,17 +12,7 @@ Interested in low-level systems, databases, distributed systems, programming lan
 
 ---
 
-### 🌐 Find me around the web
-
-| Platform | Handle |
-| :------- | :----- |
-| **Codeforces** | [purist00](https://codeforces.com/profile/purist00) |
-| **AtCoder**    | [purist00](https://atcoder.jp/users/purist00) |
-| **Email**      | [yashkhanduja.dev@gmail.com](mailto:yashkhanduja.dev@gmail.com) |
-
----
-
-## 🖥️ System Specs (My Machine)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)## 🖥️ System Specs (My Machine)
 
 | Component           | ThinkPad T14s Gen 3 (2022)        | MacBook Air M2 (2023)          | Oracle Cloud Ampere A1          |
 | :------------------ | :-------------------------------- | :----------------------------- | :------------------------------ |
