@@ -1,7 +1,10 @@
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-Yash%20Khanduja-05f548?style=for-the-badge&labelColor=05f548&logoColor=#020a05" width="100%" height="120" alt="Yash Khanduja">
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Yash_Khanduja-05f548?style=flat-square" height="150" alt="Yash Khanduja">
+  <h1><img src="https://img.shields.io/badge/Yash_Khanduja-05f548?style=for-the-badge" alt="Yash Khanduja"></h1>
 </p>
 
 <h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
