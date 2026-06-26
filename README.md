@@ -3,9 +3,16 @@
   <img src="https://img.shields.io/badge/Yash_Khanduja-05f548?style=for-the-badge" width="60%" alt="Yash Khanduja">
 </p>
 <p align="center">
-  <img src="path_to_your_blurred_image.png" width="60%" alt="Yash Khanduja">
+  <table align="center">
+    <tr>
+      <td align="center" style="padding: 20px 40px;">
+        <font color="#000000" size="6">
+          <strong>Yash Khanduja</strong>
+        </font>
+      </td>
+    </tr>
+  </table>
 </p>
-
 
 <h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
 
