@@ -1,19 +1,7 @@
 
-<!-- Full-width green highlight block -->
-<table width="100%">
-  <tr bgcolor="#32d961">
-    <td align="center" style="padding: 100px;">
-      <font color="white" size="4">
-        <strong><p align="center">
-  <img src="https://img.shields.io/badge/YASH_Khanduja-FF0000?style=for-the-badge&logoColor=white" alt="YASH Khanduja" height="65">
-</p></strong>
-      </font>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20-Yash%20Khanduja-2ea44f?style=for-the-badge&labelColor=2ea44f&logoColor=000000" width="100%" height="120" alt="Yash Khanduja">
+  <img src="https://img.shields.io/badge/%20-Yash%20Khanduja-2ea44f?style=for-the-badge&labelColor=#39ff14&logoColor=000000" width="100%" height="120" alt="Yash Khanduja">
 </p>
 
 <h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
