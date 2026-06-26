@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>An aspiring Systems Engineer focused on low-level development, high-performance computing, and building robust, highly concurrent software architectures.</strong>
+  <img src="https://komarev.com/ghvc/?username=purist00&color=red&style=flat-square" alt="Visitor Count">
 </p>
-
 ---
 
 ## 🛠️ Technical Toolkit
