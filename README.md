@@ -7,7 +7,7 @@
 
 - I’m currently working on **super-kv (In-memory Key Value Store)**
 
-- Systems Engineering **cpp| os | concurrency | db-internals**
+- Systems Engineering **cpp | os | concurrency | db-internals**
 
 - CSES [link](https://cses.fi/user/434476)
 
