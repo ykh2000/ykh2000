@@ -1,21 +1,11 @@
-<p align="center">
-  <svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-    <!-- Neon Green Background -->
-    <rect width="100%" height="100%" fill="#39FF14" rx="6" />
-    <!-- Pure Black Text -->
-    <text x="50%" y="65%" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="bold" fill="#000000" dominant-baseline="middle" text-anchor="middle">
-      Yash Khanduja
-    </text>
-  </svg>
-</p>
-<p align="center">
-  <img src="watermarked_img_3048675416999803975.png" width="100%" alt="Yash Khanduja Banner">
-</p>
-
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/%20-Yash%20Khanduja-05f548?style=for-the-badge&labelColor=05f548&logoColor=#020a05" width="100%" height="120" alt="Yash Khanduja">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Yash_Khanduja-05f548?style=plastic" alt="Yash Khanduja">
 </p>
 
 <h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
