@@ -1,12 +1,8 @@
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Yash_Khanduja-05f548?style=for-the-badge" width="60%" alt="Yash Khanduja">
-</p>
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center" style="padding: 20px 40px;">
-        <font color="#000000" size="6">
+      <td align="center" style="padding: 40px 80px;">
+        <font color="#000000" size="7">
           <strong>Yash Khanduja</strong>
         </font>
       </td>
