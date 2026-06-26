@@ -1,3 +1,15 @@
+<p align="center">
+  <svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Neon Green Background -->
+    <rect width="100%" height="100%" fill="#39FF14" rx="6" />
+    <!-- Pure Black Text -->
+    <text x="50%" y="65%" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="bold" fill="#000000" dominant-baseline="middle" text-anchor="middle">
+      Yash Khanduja
+    </text>
+  </svg>
+</p>
+
+
 
 
 <p align="center">
