@@ -1,6 +1,4 @@
-<p align="center">
-
-![Yash Khanduja](https://img.shields.io/badge/Yash%20Khanduja-000000?style=for-the-badge)
+![Yash Khanduja](https://img.shields.io/badge/Yash%20Khanduja-a6e3a1?style=for-the-badge&labelColor=1e1e2e&color=a6e3a1)
 
 Computer Science Undergraduate
 
