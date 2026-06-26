@@ -1,4 +1,12 @@
-![Yash Khanduja](https://img.shields.io/badge/Yash%20Khanduja-2ea043?style=for-the-badge&logoColor=white)
+<p align="center">
+
+![Yash Khanduja](https://img.shields.io/badge/Yash%20Khanduja-000000?style=for-the-badge)
+
+Computer Science Undergraduate
+
+Building systems. Solving hard problems.
+
+</p>
 **Computer Science Undergraduate**  
 Building systems. Solving hard problems.  
 Interested in low-level systems, databases, distributed systems, programming languages and competitive programming.
