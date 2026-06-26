@@ -16,14 +16,12 @@
 
 </p>
 
-<h3>Recent Github Activity ⚡</h3>
+<h3> Most Used Languages⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Matistjati/kattis-problem-issues/issues/17#issuecomment-4598094560) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
-2. 🚀 Published release [v2.1.5](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-3. 🚀 Published release [v2.1.4](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.4) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-4. 🗣 Commented on [#361](https://github.com/los-cocos/cocos/issues/361#issuecomment-2450527209) in [los-cocos/cocos](https://github.com/los-cocos/cocos)
-5. ❗ Opened issue [#361](https://github.com/los-cocos/cocos/issues/361) in [los-cocos/cocos](https://github.com/los-cocos/cocos)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purist00&layout=compact&hide=html,css&card_width=400" alt="Most Used Languages" />
+</p>
 <!--END_SECTION:activity-->
 
 <details>
