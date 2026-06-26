@@ -1,45 +1,31 @@
-<h1 align="center"><strong>Yash Khanduja</strong></h1>
+<h1 align="center">Hi 👋, I'm Yash Khanduja</h1>
+<h3 align="center">SWE Candidate | CS Undergrad w/ a Diploma in Software Development</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=purist00&label=Profile%20views&color=0e75b6&style=flat" alt="purist00" /> </p>
 
-<h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purist00" alt="purist00" /></a> </p>
 
-<p align="center">
-  <strong>An aspiring Systems Engineer focused on low-level development, high-performance computing, and building robust, highly concurrent software architectures.</strong>
+- ~ I’m currently working on **super-kv**
+
+- ~ I’m currently learning **Agentic Python | Systems Programming with cpp**
+
+- ~ Learning - [Systems Engineering -](cpp| os | concurrency | db-internals)
+
+- ~ DS/Algo Links [CSES | Leetcode](cses.fi/user/434476 | leetcode.com/u/ykshdja31/)
+
+- 📫 How to reach me **wrk.ysh31@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/yash67183617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/yash67183617" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yshkhndja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yshkhndja/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/ykshdja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ykshdja" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leetcode.com/u/ykshdja31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/ykshdja31/" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purist00&layout=compact&hide=html,css&card_width=400" alt="Most Used Languages" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purist00&show_icons=true&locale=en&layout=compact" alt="purist00" /></p>
 
-## 🛠️ Technical Toolkit
-
-### Core Focus
-*   **Languages:** C/C++
-*   **Systems Concepts:** Operating System Synchronization, Memory Management, Concurrency & Multithreading
-*   **Architecture & Networking:** Database Management Systems (RDBMS internals), Network Infrastructure, High-Frequency Trading (HFT) concepts
-
----
-
-## 🚀 Active Deep Dives & Learning Lab
-
-*   **Low-Level Synchronization:** Studying race conditions, mutexes, semaphores, and memory barriers to write safe, highly concurrent code.
-*   **Systems Architecture:** Reading through advanced systems literature and studying open-source operating system/database primitives to understand how high-throughput applications utilize hardware efficiently.
-*   **Algorithmic Optimization:** Actively using the [CSES Problem Set](https://cses.fi/) as a laboratory to practice extreme optimization, focusing on memory efficiency and fast I/O operations in modern C++.
-
----
-
-## 🎯 Current Goals
-*   **Open Source Foundations:** Actively working through modern C++ standards and preparing to contribute to low-level open-source projects (LFX Mentorship tracks, Linux foundation ecosystems).
-*   **System Design:** Deepening knowledge in foundational distributed systems and network protocol stacks.
-
----
-
-## 🔗 Connect With Me
-*   **GitHub:** [purist00](https://github.com/purist00)
-*   **LinkedIn:** [yashkhandujaswe](https://www.linkedin.com/in/yashkhandujaswe/)
-*   **Twitter:** [@YASH67183617](https://twitter.com/YASH67183617)
-
----
-*Last updated: June 2026*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purist00&show_icons=true&locale=en" alt="purist00" /></p>
