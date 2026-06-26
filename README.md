@@ -1,4 +1,4 @@
-![Yash Khanduja](https://img.shields.io/badge/Yash%20Khanduja-Systems%20Engineer-green?style=for-the-badge)
+![Yash Khanduja](https://img.shields.io/badge/Yash%20Khanduja%20?style=for-the-badge)
 
 **Computer Science Undergraduate**  
 Building systems. Solving hard problems.  
