@@ -1,6 +1,4 @@
-<p align="center">
-  <strong>Yash Khanduja</strong>
-</p>
+<h1 align="center"><strong>Yash Khanduja</strong></h1>
 
 
 <h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
