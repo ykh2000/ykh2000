@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Yash_Khanduja-05f548?style=plastic" alt="Yash Khanduja">
+  <img src="https://img.shields.io/badge/Yash_Khanduja-05f548?style=flat-square" height="35" alt="Yash Khanduja">
 </p>
 
 <h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
