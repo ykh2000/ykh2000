@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purist00&label=Profile%20views&color=0e75b6&style=flat" alt="purist00" /> </p>
 
 
-- I’m currently working on **super-kv (In-memory Key Value Store)**
+- I’m currently working on **SuperKV (In-memory Key Value Store)**
 
 - Systems Engineering **cpp | os | concurrency | db-internals**
 
