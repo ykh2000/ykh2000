@@ -17,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/yash67183617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/yash67183617" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yshkhndja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yshkhndja/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ykshdja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ykshdja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/u/ykshdja31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/ykshdja31/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yshkhndja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yshkhndja/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ykshdja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ykshdja" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/ykshdja31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/ykshdja31/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
