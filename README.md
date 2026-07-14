@@ -11,8 +11,9 @@
       </a>
     </td>
     <td>
+      <!-- Here is the updated link using your image -->
       <a href="https://cses.fi/user/434476" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/24/000000/external-level-up-your-coding-skills-on-the-programming-challenges-website-logo-regular-tal-revivo.png" alt="CSES" height="25" width="25" />
+        <img src="./Screenshot 2026-07-14 at 8.41.48 AM.png" alt="CSES" height="25" width="60" style="background-color: transparent;" />
       </a>
     </td>
   </tr>
