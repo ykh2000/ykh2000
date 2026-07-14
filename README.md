@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purist00&label=Profile%20views&color=0e75b6&style=flat" alt="purist00" /> </p>
 
 
-- I’m currently working on **SuperKV (In-memory Key Value Store)**
+- I’m currently working on **miniLegder(Venmo Like Backend Ledger Engine)**
 
 - CSES [link](https://cses.fi/user/434476)
 
@@ -25,6 +25,6 @@
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ykh2000&show_icons=true&locale=en" alt="ykh2000" /></p>-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ykh2000&" alt="ykh2000" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ykh2000&show_icons=true&locale=en&layout=compact" alt="ykh2000" /></p>
+<!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ykh2000&show_icons=true&locale=en&layout=compact" alt="ykh2000" /></p>-->
 
 
